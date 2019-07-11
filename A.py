@@ -1,1 +1,2 @@
-print("Hey let's print")
+print("fun stuff")
+print(":)))))))")
