@@ -1,1 +1,3 @@
-print("message message message message")
+
+print("No fun no stuff")
+
